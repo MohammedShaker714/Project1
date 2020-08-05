@@ -6,7 +6,7 @@ shaker
 We are Family
 
 fsfdsfsdfsdfsf
-sdfsfsdf
+
 sdfsdf
 sdfdsf
 :wq
@@ -15,4 +15,6 @@ dfdfsdfsd
 dsfds
 :wq
 
-:
+:dded few lines and some deletion:wq
+
+
